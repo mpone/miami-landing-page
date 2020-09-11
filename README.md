@@ -14,7 +14,7 @@ Landing page was developed with:
 - BEM
 - Figma
 
-The project has the responsive layout for several screen-width:
+The project has the responsive layout for several screen-widths:
 - The design 1600px
 - Notebook 1280px
 - Tablet 980px
